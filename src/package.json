@@ -1,0 +1,15 @@
+{
+  "name": "workshop1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/olleSten/workshop1"
+  },
+  "author": "",
+  "license": "ISC"
+}
